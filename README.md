@@ -1,4 +1,5 @@
 # vuefood
+Necessita da api larafood.
 
 ## Project setup
 ```
